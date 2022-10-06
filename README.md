@@ -1,6 +1,4 @@
-# BMI-Calculator
-
-<h1>Hirst Painting Project</h1>
+<h1>BMI Calculator</h1>
 
 <h2>Description</h2>
 A simple project that consists of using Python to generate a BMI Calculator where the user can input height and weight, and the program will print their weight status.
