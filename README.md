@@ -11,7 +11,7 @@ A simple project that consists of using Python to generate a BMI Calculator wher
 
 - <b>Python</b> 
 - <b>PyCharm</b>
-- 
+
 <h2>Environments Used </h2>
 
 - <b>Windows 11</b>
